@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RXJavaTest</string>
+    <string name="user_id">User ID:</string>
+    <string name="id">1</string>
+    <string name="post_id">Post ID:</string>
+    <string name="title_post">title post</string>
+    <string name="body_post">body post</string>
+</resources>
